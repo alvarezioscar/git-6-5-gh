@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 3 userunix userunix 4096 Sep 24 20:09 .
+drwxr-xr-x 4 userunix userunix 4096 Sep 24 19:59 ..
+drwxr-xr-x 7 userunix userunix 4096 Sep 24 20:05 .git
+-rw-r--r-- 1 userunix userunix    0 Sep 24 20:09 f1.txt
